@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emir-kaan-ayar/static/css/main.9729bbf4.css",
+    "main.js": "/emir-kaan-ayar/static/js/main.32e7e81d.js",
+    "static/js/787.7702f3c2.chunk.js": "/emir-kaan-ayar/static/js/787.7702f3c2.chunk.js",
+    "index.html": "/emir-kaan-ayar/index.html",
+    "main.9729bbf4.css.map": "/emir-kaan-ayar/static/css/main.9729bbf4.css.map",
+    "main.32e7e81d.js.map": "/emir-kaan-ayar/static/js/main.32e7e81d.js.map",
+    "787.7702f3c2.chunk.js.map": "/emir-kaan-ayar/static/js/787.7702f3c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9729bbf4.css",
+    "static/js/main.32e7e81d.js"
+  ]
+}
